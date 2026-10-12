@@ -1,1 +1,1 @@
-![docs](./dokumentasi.mov)
+![docs](./dokumentasi.gif)
